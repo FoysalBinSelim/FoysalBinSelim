@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React framework**
 
-- 📫 Want to contact **foysalbinselim@gmail.com**
+- 📫 Want to contact? **foysalbinselim@gmail.com**
 
 
 ## 🌐 Socials:
