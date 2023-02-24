@@ -1,5 +1,9 @@
-# 💫 About Me:
-## Keen on Software & Web development. Also, exploring new things. 🚀
+<h1 align="center">Hello there 👋, I'm Foysal Bin Selim</h1>
+<h3 align="center">Keen on Software & Web development. Also, exploring new things. 🚀</h3>
+
+- 🌱 I’m currently learning **React framework**
+
+- 📫 Want to contact **foysalbinselim@gmail.com**
 
 
 ## 🌐 Socials:
