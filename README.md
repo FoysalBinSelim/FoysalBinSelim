@@ -1,5 +1,5 @@
 # 💫 About Me:
-Keen on Software & Web development. Also, exploring new things. 🚀
+## Keen on Software & Web development. Also, exploring new things. 🚀
 
 
 ## 🌐 Socials:
@@ -13,7 +13,7 @@ Keen on Software & Web development. Also, exploring new things. 🚀
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FoysalBinSelim&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=FoysalBinSelim)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[![](https://gtce.itsvg.in/api?username=FoysalBinSelim)](https://twitter.com/FoysalBinSelim/status/1628415030789292037)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=FoysalBinSelim&icon=1&color=11)](https://visitcount.itsvg.in)
